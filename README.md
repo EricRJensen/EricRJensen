@@ -8,8 +8,8 @@ I build applied remote sensing and cloud-native decision-support data tools for 
 
 **ClimateEngine.org** is the main hub of my applied work—translating EO and climate datasets into practitioner-ready tools, services, and communication.
 
-In addition to Climate Engine, I invest heavily in the broader Earth Engine and rangelands ecosystem:
-- **Rangeland Analysis Platform (RAP) tools + enablement:** leading development of RAP user support infrastructure and building decision-support applications (e.g., RAP Production Explorer, Yield Gap reports, etc.).
+In addition to Climate Engine, I'm involved in supporting the broader Earth Engine and applied remote sensing community:
+- **Rangeland Analysis Platform (RAP) tools + enablement:** led development of RAP user support infrastructure and building decision-support applications (e.g., RAP Production Explorer, Yield Gap reports, etc.).
 - **Open data commons contributions:** helping move Climate Engine datasets into the **Awesome GEE Community Catalog**, expanding access to community-shared Earth Engine assets.
 - **Google Developer Expert (GDE) for Earth Engine:** supporting the EO community through enablement, knowledge-sharing, and practical guidance.
 
