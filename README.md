@@ -25,5 +25,5 @@ I’m increasingly using EO foundation models and time-series forecasting—incl
 
 - **Google Earth Engine (GEE) + Google Cloud:** EO analytics, dataset integration, scalable geospatial processing, and production deployment
 - **Python:** geospatial pipelines, APIs, cloud services, automation
-- **R:** analysis, statistical workflows, visualization 📐📉
-- **Operational web delivery:** turning EO methods into reliable, user-facing tools and services 🚀🖥️
+- **R:** analysis, statistical workflows, visualization 
+- **Operational web delivery:** turning EO methods into reliable, user-facing tools and services 
