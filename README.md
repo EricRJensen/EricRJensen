@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Eric Jensen | Geospatial Data Scientist 🌍🛰️
 
 I build cloud-native, Earth-observation decision-support tools for land and water management, with a focus on the western US but the tools are often applied more broadly. My work sits at the intersection of **remote sensing, geospatial analytics, and operational web applications**—with an emphasis on reproducible methods, interoperability, and operationalization. 🧭📈
