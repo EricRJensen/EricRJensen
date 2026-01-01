@@ -4,7 +4,7 @@ I build applied remote sensing and cloud-native decision-support data tools for 
 
 ---
 
-Climate Engine + open geospatial infrastructure 🌱⚡
+##Climate Engine + open geospatial infrastructure 🌱⚡
 
 **ClimateEngine.org** is the main hub of my applied work—translating EO and climate datasets into practitioner-ready tools, services, and communication.
 
